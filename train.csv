@@ -1,50 +1,49 @@
-Class Index,Title,Description
 1,Suma,Suma
 1,Suma za kus,Suma za kus
 1,Cena,Cena
 1,Cena za kus,Cena za kus
-1,Celkov· suma,Celkov· suma
-1,Celkov· cena,Celkov· cena
-1,Poloûky,Poloûky
-1,Fat˙rovanÈ ploûky,Fat˙rovanÈ ploûky
-1,Fakturovan· pr·ca,Fakturovan· pr·ca
+1,Celkov√° suma,Celkov√° suma
+1,Celkov√° cena,Celkov√° cena
+1,Polo≈æky,Polo≈æky
+1,Fat√∫rovan√© plo≈æky,Fat√∫rovan√© plo≈æky
+1,Fakturovan√° pr√°ca,Fakturovan√° pr√°ca
 1,Cena s DPH,Cena s DPH
 1,Cena bez DPH,Cena bez DPH
 1,Suma s DPH,Suma s DPH
 1,Suma bez DPH,Suma bez DPH
 1,Po?et kusov,Po?et kusov
-1,Po?et poloûiek,Po?et poloûiek
-1,Celkov˝ po?et kusov,Celkov˝ po?et kusov
+1,Po?et polo≈æiek,Po?et polo≈æiek
+1,Celkov√Ω po?et kusov,Celkov√Ω po?et kusov
 1,Po?et kusov spolu,Po?et kusov spolu
 1,Po?et,Po?et
-1,Jedotkov· cena,Jedotkov· cena
+1,Jedotkov√° cena,Jedotkov√° cena
 1,Jedn. cena bez DPH,Jedn. cena bez DPH
 1,Jedn. cena s DPH,Jedn. cena s DPH
 1,Celkom s DPH,Celkom s DPH
-1,N·zov poloûky,N·zov poloûky
-1,N·zov a popis poloûky,N·zov a popis poloûky
-1,Popis poloûky,Popis poloûky
+1,N√°zov polo≈æky,N√°zov polo≈æky
+1,N√°zov a popis polo≈æky,N√°zov a popis polo≈æky
+1,Popis polo≈æky,Popis polo≈æky
 2,Online platba katrou vopred,Online platba katrou vopred
-2,Zdvih·k motorov 2T,Zdvih·k motorov 2T
-2,Balancer s h·kmi,Balancer s h·kmi
+2,Zdvih√°k motorov 2T,Zdvih√°k motorov 2T
+2,Balancer s h√°kmi,Balancer s h√°kmi
 2,1,1
 2,ks ,ks 
-2,"2,515.26 Ä","2,515.26 Ä"
-2,846.45 Ä,846.45 Ä
-2,48.50 Ä,48.50 Ä
-2,856 Ä,856 Ä
+2,"2,515.26 ‚Ç¨","2,515.26 ‚Ç¨"
+2,846.45 ‚Ç¨,846.45 ‚Ç¨
+2,48.50 ‚Ç¨,48.50 ‚Ç¨
+2,856 ‚Ç¨,856 ‚Ç¨
 2,20,20
-2,KuriÈr,KuriÈr
-2,"2,416 Ä","2,416 Ä"
-2,7.77 Ä,7.77 Ä
+2,Kuri√©r,Kuri√©r
+2,"2,416 ‚Ç¨","2,416 ‚Ç¨"
+2,7.77 ‚Ç¨,7.77 ‚Ç¨
 2,98,98
 2,SADA VODICOV,SADA VODICOV
 2,KABEL,KABEL
 2,TERMOLUX,TERMOLUX
 2,IZOLACNA PASKA,IZOLACNA PASKA
-2,RVZ/RiedenÈ funkcie,RVZ/RiedenÈ funkcie
+2,RVZ/Rieden√© funkcie,RVZ/Rieden√© funkcie
 2,Kryt demontova? a montova?,Kryt demontova? a montova?
-2,⁄stredn˝ zv‰zok vodi?ov oprava,⁄stredn˝ zv‰zok vodi?ov oprava
-2,Te?ie snÌma? na motor,Te?ie snÌma? na motor
-2,1 Dielensk·,1 Dielensk·
+2,√östredn√Ω zv√§zok vodi?ov oprava,√östredn√Ω zv√§zok vodi?ov oprava
+2,Te?ie sn√≠ma? na motor,Te?ie sn√≠ma? na motor
+2,1 Dielensk√°,1 Dielensk√°
 2,50,50
